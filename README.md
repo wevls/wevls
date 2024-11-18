@@ -1,5 +1,5 @@
-- Im wevls, i enjoy exploring different repos and programs
-- I live in london and im from the UK
+- Im wevls
+- I live in england and im from the UK
 - I enjoy food 👍
 
 <!---
